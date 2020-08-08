@@ -1,0 +1,22 @@
+{
+  "name": "bgdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdfreader": "^1.0.7",
+    "puppeteer": "^5.2.1",
+    "puppeteer-extra": "^3.1.13",
+    "puppeteer-extra-plugin-recaptcha": "^3.1.15",
+    "user-agents": "^1.0.559"
+  },
+  "devDependencies": {
+    "puppeteer-extra-plugin-stealth": "^2.5.0"
+  }
+}
